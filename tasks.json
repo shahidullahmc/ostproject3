@@ -1,0 +1,30 @@
+[
+    {
+        "task": "Task 1",
+        "done": false
+    },
+    {
+        "task": "Task 2",
+        "done": true
+    },
+    {
+        "task": "Task3",
+        "done": false
+    },
+    {
+        "task": "Draw Biology",
+        "done": false
+    },
+    {
+        "task": "Practice Maths",
+        "done": false
+    },
+    {
+        "task": "Root out Chemistry",
+        "done": false
+    },
+    {
+        "task": "Problem solving - Physics",
+        "done": false
+    }
+]
